@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Me chamo João Vitor, sou programador Front-End, estudando para ser Full-Stack, aprendendo e criando projetos com as seguintes tecnologias:<h1></h1>
+ Meu nome é João Vitor, sou programador Front-End, estudando para ser Full-Stack, aprendendo e criando projetos com as seguintes tecnologias:
 <br>
 <br>
 
